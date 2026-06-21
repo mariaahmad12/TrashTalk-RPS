@@ -1,0 +1,21 @@
+# TrashTalk-RPS
+
+# TrashTalk-RPS
+
+A fun, interactive, Python-based Rock, Paper, Scissors desktop game built using the **Flet framework**. To make the classic game more entertaining, the computer playfully trash-talks the player based on the outcome of each round!
+
+## 🚀 Features
+* **Interactive UI:** Built using modern Flet components.
+* **Audio Feedback:** Dynamic audio effects including win, lose, and explosive sound effects.
+* **Playful Trash Talk:** Randomized, humorous computer responses tailored to whether you win or lose.
+* **Standalone Desktop App:** Packaged successfully into an executable format using PyInstaller.
+
+## 🛠️ Built With
+* **Python** 
+* **Flet** (For the Graphical User Interface)
+* **PyInstaller** (For application packaging)
+
+## 🎮 How to Play
+1. Download the code or the standalone executable package.
+2. Ensure the `assets` folder containing the `.mp3` audio files is in the same directory as the application.
+3. Run the application and challenge the computer!
